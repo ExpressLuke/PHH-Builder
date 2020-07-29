@@ -1,7 +1,7 @@
 name: GSI Build
 
 on: [push]
-
+ 
 env:
   ROM_NAME: AOSP
   ZIP_NAME: AOSP
